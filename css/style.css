@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+button {
+  background-color: hsl(224, 93%, 58%);
+  color: hsl(170, 45%, 43%);
+  border: none;
+  color: white;
+  padding: 10px 18px;
+}
+.button1 {
+  margin-left: 5px;
+}
+.button2 {
+  margin-top: 5px;
+}
+a {
+  color: hsl(170, 45%, 43%);
+  padding: 20px;
+  margin: 10px;
+}
+h1,
+h2,
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
+  width: normal;
+}
+
+input {
+  padding: 10px 18px;
+}
+.navbar1 {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
+  padding: 30px;
+}
+.list ul li {
+  display: inline-flex;
+  padding: 20px;
+}
+
+.right-box1 {
+  background-image: url("../images/illustration-1.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+.container1,
+.container2,
+.container3,
+.container-in {
+  display: flex;
+  margin: auto 0;
+  width: 80%;
+  margin: 0 auto;
+}
+.clik {
+  display: flex;
+  margin: 20px;
+}
+
+.left-box1,
+.right-box1,
+.right-box2,
+.left-box2 {
+  width: 100%;
+  padding: 80px 20px;
+}
+.container2 {
+  background-image: url("../images/bg-curve-desktop.svg");
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+.right-box2 {
+  background-image: url("../images/illustration-2.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+.kyle {
+  border: 1px red;
+  border-radius: 50px;
+  width: 50px;
+}
+.quotes {
+  border-style: groove;
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px;
+}
+.kyle-cont {
+  display: flex;
+}
+.content1 {
+  padding: 20px 0;
+}
+.name {
+  display: block;
+}
+.backgrounde-style1 {
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+}
+.left-box3,
+.right-box3 {
+  width: 50%;
+  padding: 50px 20px;
+}
+.clik2 {
+  padding: 20px;
+}
+.email2 {
+  width: 80%;
+  margin: 0 auto;
+}
+.backgrounde-style2 {
+  background-color: hsl(243, 87%, 12%);
+  color: white;
+}
+.con {
+  width: 80%;
+
+  margin: 0 auto;
+  padding: 30px 50px;
+
+}
+
+.mark {
+  display: block;
+  padding: 5px 0;
+}
+.two ul li,
+.three ul li {
+  list-style: none;
+  padding: 5px 0;
+}
+.footer-logo{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 50px;
+}

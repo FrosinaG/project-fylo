@@ -1,0 +1,41 @@
+@media screen and (max-width: 375px) {
+   
+    .container1,
+    .container2,
+    .container3,
+    .container-in,
+    .clik {
+      display: block;
+      padding: 2px;
+    }
+
+    .navbar1 ul li {
+      display: inline;
+      font-size: 8px;
+      padding: 2px;
+    }
+    .button1,
+    .button2 {
+      width: 100%;
+    }
+    input {
+      width: 100%;
+    }
+    .left-box3,
+    .right-box3 {
+      width: 80%;
+      padding: 50px;
+    }
+    .logo,
+    .list {
+      display: flex;
+    }
+    .imglogo {
+      width: 40%;
+      padding: 0;
+    }
+    .clik {
+      width: 80%;
+    }
+  }
+
