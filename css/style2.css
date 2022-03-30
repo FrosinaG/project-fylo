@@ -1,41 +1,67 @@
 @media screen and (max-width: 375px) {
-   
-    .container1,
-    .container2,
-    .container3,
-    .container-in,
-    .clik {
-      display: block;
-      padding: 2px;
-    }
-
-    .navbar1 ul li {
-      display: inline;
-      font-size: 8px;
-      padding: 2px;
-    }
-    .button1,
-    .button2 {
-      width: 100%;
-    }
-    input {
-      width: 100%;
-    }
-    .left-box3,
-    .right-box3 {
-      width: 80%;
-      padding: 50px;
-    }
-    .logo,
-    .list {
-      display: flex;
-    }
-    .imglogo {
-      width: 40%;
-      padding: 0;
-    }
-    .clik {
-      width: 80%;
-    }
+  .container1,
+  .container2,
+  .container3,
+  .container-in,
+  .clik {
+    display: block;
+    padding: 10px;
+  }
+  .navbar1 ul li {
+    display: inline;
+    font-size: 10px;
+    padding: 2px;
+  }
+  .content1 {
+    padding: 10px 0;
+  }
+  h2,
+  p {
+    padding: 5px 0;
+  }
+  a {
+    width: 100%;
+    font-size: 12px;
+  }
+  .navbar1,
+  .email2,
+  .con {
+    width: 100%;
+  }
+  .left-box1,
+  .left-box2,
+  .left-box3,
+  .right-box3 {
+    width: 100%;
+    padding: 10px 0;
   }
 
+  .button1,
+  .button2,
+  input {
+    width: 100%;
+    margin: 0;
+  }
+  .quotes {
+    width: 100%;
+    font-size: 12px;
+  }
+  .list {
+    display: flex;
+    width: 70%;
+  }
+  .imglogo {
+    width: 30%;
+    padding: 0;
+  }
+  .clik,
+  .clik2 {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .four {
+    width: 100%;
+    margin: 0 10px;
+  }
+}
